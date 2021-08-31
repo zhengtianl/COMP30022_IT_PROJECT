@@ -6,4 +6,5 @@
 | Name        | 
 | ------------- |
 |Chuyue (Amy) Liu| 
-|Emily Zhou| 
+|Emily Zhou|
+|Haiyao Yan|
