@@ -8,3 +8,4 @@
 |Chuyue (Amy) Liu| 
 |Emily Zhou|
 |Haiyao Yan|
+|Zhengtian Lu|
